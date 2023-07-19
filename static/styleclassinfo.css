@@ -1,0 +1,43 @@
+h1{
+
+    margin: 6px;
+    padding: 5px;
+    text-align: center;
+
+}
+
+h1:hover{
+    text-decoration: underline;
+    color: purple;
+    font-weight: bold;
+}
+
+h2{
+
+    margin: 6px;
+    padding: 5px;
+    text-align: center;
+
+}
+
+h2:hover{
+    text-decoration: underline;
+    color: purple;
+    font-weight: bold;
+}
+
+p{
+    margin: 3px;
+    padding: 3px;
+}
+
+
+li{
+    text-align: center;
+    margin: 5px;
+}
+
+table{
+   margin: 0 auto;
+}
+

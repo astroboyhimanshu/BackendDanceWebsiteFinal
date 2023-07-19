@@ -1,0 +1,55 @@
+extends base.pug
+
+block scripts
+  script(src='/static/index.js')
+
+block style
+  style
+    include ../static/style.css
+    include ../static/styleclassinfo.css
+
+block content
+  main
+    section#class-info
+      h1 Class Information
+      p
+        | At Himanshu Dance Academy, we offer dance classes in various cities, providing a fantastic opportunity for dance enthusiasts to learn and grow.
+        | Our classes are tailored to suit different age groups and skill levels, from beginners to advanced dancers.
+
+      h2 Class Timings and Schedule
+      table
+        tr
+          th Dance Style
+          th Class Timing
+        tr
+          td Classical
+          td Mon - Wed: 4:00 PM - 6:00 PM
+        tr
+          td Contemporary
+          td Tue - Thu: 6:30 PM - 8:30 PM
+        tr
+          td Hip-Hop
+          td Wed - Fri: 5:30 PM - 7:30 PM
+        tr
+          td Bollywood
+          td Thu - Sat: 7:00 PM - 9:00 PM
+
+      p
+        | Classes are held on weekdays, allowing our students to balance their dance education with their other commitments.
+        | We believe in creating a supportive and disciplined learning environment to help our students achieve their dance goals.
+
+      h2 Class Schedule
+      p
+        | Classes run throughout the year, with a focus on regular training and steady progress.
+        | We have scheduled Sundays off to allow our students to rest and rejuvenate for the upcoming week.
+
+      h2 Cities with Classes Available
+      ul
+        li Chandigarh
+        li Mumbai
+        li Delhi
+        li Bengaluru
+        li Hyderabad
+        li Kolkata
+        li Chennai
+

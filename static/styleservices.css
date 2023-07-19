@@ -1,0 +1,42 @@
+h1{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+h1:hover{
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+    color: blue;
+}
+
+h2:hover{
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+    color: brown;
+}
+
+h3:hover{
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+
+h2{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+
+}
+
+h3{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+
+}
+
