@@ -1,4 +1,5 @@
 Developed a Full Stack dynamic dance academy website with Pug, CSS, and JavaScript for interactive frontend
+
 Implemented Express.js and Node.js as the backend to handle HTTP requests and responses efficiently, ensuring seamless communication between the frontend and backend
 Utilized MongoDB, a NoSQL database, for data management, enabling the storage of details of potential customers
 Learned about Backend and database integration
