@@ -4,9 +4,9 @@ Implemented Express.js and Node.js as the backend to handle HTTP requests and re
 
 Utilized MongoDB, a NoSQL database, for data management, enabling the storage of details of potential customers
 
-Learned about Backend and database integration
+Learned about Backend, database integration & Webapp Deployment through Cloud Computing (AWS)
 
-Technologies used - Pug, CSS3, JAVASCRIPT, Node.js, express.js, MongoDB
+Technologies used - Pug, CSS3, JAVASCRIPT, Node.js, express.js, MongoDB, AWS Beanstalk
 [Himanshu Dance Academy](http://himanshudanceacademy-env.eba-qemd39q9.ap-south-1.elasticbeanstalk.com/home)
 
 
