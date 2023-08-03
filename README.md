@@ -6,7 +6,7 @@ Utilized MongoDB, a NoSQL database, for data management, enabling the storage of
 
 Learned about Backend, database integration & Webapp Deployment through Cloud Computing (AWS)
 
-Technologies used - Pug, CSS3, JAVASCRIPT, Node.js, express.js, MongoDB, AWS Beanstalk
+Technologies used - Pug, CSS3, JAVASCRIPT, Node.js, express.js, MongoDB, AWS Elastic Beanstalk
 [Himanshu Dance Academy](http://himanshudanceacademy-env.eba-qemd39q9.ap-south-1.elasticbeanstalk.com/)
 
 
